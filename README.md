@@ -1,7 +1,7 @@
 # Hi there 👋
 
 :computer: **Estudiante de Ingeniería de Sistemas Computacionales**
-:pencil: **En constante aprendizaje** :platzi:
+:pencil: **En constante aprendizaje** :rocket:
 
 ## Vias de contacto
 
