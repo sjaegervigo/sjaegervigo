@@ -5,7 +5,7 @@
 
 ## Vias de contacto
 
-Linkedin -> ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebastian-jaeger-vigo-911339169&up_message=Linkedin&style=social)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebastian-jaeger-vigo-911339169&up_message=Linkedin&style=social)
 
 <!--
 **sjaegervigo/sjaegervigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
