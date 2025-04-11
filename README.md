@@ -8,7 +8,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebastian-jaeger-vigo-911339169&up_message=Linkedin&style=social)
 
 ### ⚡ Actividad Reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 <!--END_SECTION:last_update-->
 
