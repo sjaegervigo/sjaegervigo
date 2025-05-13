@@ -10,10 +10,6 @@
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [sjaegervigo/curso-kotlin-desde-cero](https://github.com/sjaegervigo/curso-kotlin-desde-cero) from [Gvetri/curso-kotlin-desde-cero](https://github.com/Gvetri/curso-kotlin-desde-cero)<br>
-2. ⬆️ Pushed 1 commit(s) to [sjaegervigo/miPrimerRepo](https://github.com/sjaegervigo/miPrimerRepo)<br>
-3. ✌️ Released [v0.1.0](https://github.com/sjaegervigo/quintoRepo/releases/tag/v0.1.0) in [sjaegervigo/quintoRepo](https://github.com/sjaegervigo/quintoRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [sjaegervigo/quintoRepo](https://github.com/sjaegervigo/quintoRepo)<br>
-5. 📔 Created new repository [sjaegervigo/quintoRepo](https://github.com/sjaegervigo/quintoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:last_update-->
