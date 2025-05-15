@@ -9,7 +9,6 @@
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [sjaegervigo/curso-kotlin-desde-cero](https://github.com/sjaegervigo/curso-kotlin-desde-cero) from [Gvetri/curso-kotlin-desde-cero](https://github.com/Gvetri/curso-kotlin-desde-cero)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:last_update-->
