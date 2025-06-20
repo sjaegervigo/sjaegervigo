@@ -13,10 +13,13 @@
 
 ### ⚡ Actividad Reciente
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
+
+<!--END_SECTION:activity-->
+
+
 
 <!--
 **sjaegervigo/sjaegervigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
