@@ -5,7 +5,8 @@
 
 ## Vias de contacto
 
-![Website](https://www.linkedin.com/in/sebastian-jaeger-vigo-911339169/)
+[🔗 Conecta en LinkedIn](https://www.linkedin.com/in/sebastian-jaeger-vigo-911339169/)
+
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
