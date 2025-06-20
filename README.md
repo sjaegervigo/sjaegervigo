@@ -5,7 +5,7 @@
 
 ## Vias de contacto
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebastian-jaeger-vigo-911339169&up_message=Linkedin&style=social)
+![Website](https://www.linkedin.com/in/sebastian-jaeger-vigo-911339169/)
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
