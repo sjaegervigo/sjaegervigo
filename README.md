@@ -12,8 +12,8 @@
 
 
 ### ⚡ Actividad Reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:activity-->
 
 <!--END_SECTION:last_update-->
 
