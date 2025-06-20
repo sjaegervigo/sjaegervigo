@@ -15,7 +15,8 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!--END_SECTION:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **sjaegervigo/sjaegervigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
