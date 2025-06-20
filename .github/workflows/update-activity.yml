@@ -1,18 +1,18 @@
-name: Actualizar actividad reciente
+name: Update README2
 
 on:
   schedule:
-    - cron: "0 * * * *" # Cada hora
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Actualiza el README con actividad reciente
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: JamesIves/github-activity-readme@v0.4.5
-        with:
-          CONFIG_FILE: .github/activity-config.yml
-          MAX_LINES: 5
+    name: Update Profile README
 
+    steps:
+      - uses: actions/checkout@v4.2.2
+      
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
