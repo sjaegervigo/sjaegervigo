@@ -5,7 +5,10 @@
 
 ## Vias de contacto
 
-[🔗 Conecta en LinkedIn](https://www.linkedin.com/in/sebastian-jaeger-vigo-911339169/)
+<a href="https://www.linkedin.com/in/sebastian-jaeger-vigo-911339169/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
 
 
 ### ⚡ Actividad Reciente
