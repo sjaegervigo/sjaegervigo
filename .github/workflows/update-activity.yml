@@ -1,0 +1,18 @@
+name: Actualizar actividad reciente
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Actualiza el README con actividad reciente
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JamesIves/github-activity-readme@v0.4.5
+        with:
+          CONFIG_FILE: .github/activity-config.yml
+          MAX_LINES: 5
+
