@@ -17,7 +17,6 @@
 2. 🎉 Merged PR [#1](https://github.com/sjaegervigo/testrepo/pull/1) in [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
 3. 💪 Opened PR [#1](https://github.com/sjaegervigo/testrepo/pull/1) in [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
 4. ⬆️ Pushed 1 commit(s) to [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [sjaegervigo/sjaegervigo](https://github.com/sjaegervigo/sjaegervigo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
