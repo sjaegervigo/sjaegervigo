@@ -1,6 +1,6 @@
 # Hola, soy Sebastian Jaeger Vigo 👋
 
-:computer: **Estudiante de Ingeniería de Sistemas Computacionales**
+:computer: **Egresado de la carrera de Ingeniería de Sistemas Computacionales - UPN**
 :pencil: **En constante aprendizaje** :rocket:
 
 ## Vias de contacto
