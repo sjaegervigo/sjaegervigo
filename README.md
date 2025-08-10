@@ -14,10 +14,6 @@
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [sjaegervigo/sjaegervigo](https://github.com/sjaegervigo/sjaegervigo)<br>
-2. ⬆️ Pushed 2 commit(s) to [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
-3. 🎉 Merged PR [#1](https://github.com/sjaegervigo/testrepo/pull/1) in [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
-4. 💪 Opened PR [#1](https://github.com/sjaegervigo/testrepo/pull/1) in [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [sjaegervigo/testrepo](https://github.com/sjaegervigo/testrepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
