@@ -13,7 +13,6 @@
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sjaegervigo/sjaegervigo](https://github.com/sjaegervigo/sjaegervigo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
