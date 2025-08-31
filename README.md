@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
+🌱 I’m currently learning: 
+IBM Java Developer Professional Certificate in Coursera
+
 
 
 ### ⚡ Actividad Reciente
