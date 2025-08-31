@@ -16,9 +16,11 @@ IBM Java Developer Professional Certificate in Coursera
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17103](https://github.com/ibm-developer-skills-network/gkpbt-css-circle/pull/17103) in [ibm-developer-skills-network/gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle)<br>
-2. ⬆️ Pushed 1 commit(s) to [sjaegervigo/gkpbt-css-circle](https://github.com/sjaegervigo/gkpbt-css-circle)<br>
-3. 🔱 Forked [sjaegervigo/gkpbt-css-circle](https://github.com/sjaegervigo/gkpbt-css-circle) from [ibm-developer-skills-network/gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle)<br>
+1. ⬆️ Pushed 1 commit(s) to [sjaegervigo/sjaegervigo](https://github.com/sjaegervigo/sjaegervigo)<br>
+2. 💪 Opened PR [#47306](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/47306) in [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br>
+3. 🔱 Forked [sjaegervigo/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/sjaegervigo/jbbmo-Introduction-to-Git-and-GitHub) from [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br>
+4. ⬆️ Pushed 1 commit(s) to [sjaegervigo/github-final-project](https://github.com/sjaegervigo/github-final-project)<br>
+5. ⬆️ Pushed 1 commit(s) to [sjaegervigo/github-final-project](https://github.com/sjaegervigo/github-final-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
