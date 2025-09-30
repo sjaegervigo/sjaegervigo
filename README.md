@@ -18,9 +18,6 @@ IBM Java Developer Professional Certificate in Coursera
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [sjaegervigo/sjaegervigo](https://github.com/sjaegervigo/sjaegervigo)<br>
 2. 💪 Opened PR [#47306](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/47306) in [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br>
-3. 🔱 Forked [sjaegervigo/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/sjaegervigo/jbbmo-Introduction-to-Git-and-GitHub) from [ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)<br>
-4. ⬆️ Pushed 1 commit(s) to [sjaegervigo/github-final-project](https://github.com/sjaegervigo/github-final-project)<br>
-5. ⬆️ Pushed 1 commit(s) to [sjaegervigo/github-final-project](https://github.com/sjaegervigo/github-final-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
