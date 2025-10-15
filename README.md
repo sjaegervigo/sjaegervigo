@@ -16,6 +16,7 @@ IBM Java Developer Professional Certificate in Coursera
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [sjaegervigo/notesApp-Spring-Angular](https://github.com/sjaegervigo/notesApp-Spring-Angular)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
