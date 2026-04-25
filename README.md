@@ -16,7 +16,6 @@ IBM Java Developer Professional Certificate in Coursera
 
 ### ⚡ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sjaegervigo/help-desk-system](https://github.com/sjaegervigo/help-desk-system)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
